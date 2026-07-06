@@ -10,7 +10,7 @@ arch:
   - armhf
   - armv7
 url: 'https://github.com/terrastak/ring-mqtt-ha-addon'
-image: 'ghcr.ioterrastak/ring-mqtt'
+image: 'ghcr.io/terrastak/ring-mqtt'
 webui: 'http://[HOST]:[PORT:55123]/'
 ingress: true
 ingress_port: 55123
