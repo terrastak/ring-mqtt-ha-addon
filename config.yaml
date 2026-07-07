@@ -1,5 +1,5 @@
 name: Ring-MQTT with Video Streaming & Light Intensity Control
-version: 5.9.3.1
+version: 5.9.3.1a
 slug: ring_mqtt
 description: Integrate Ring Devices into Home Assistant via MQTT and RTSP
 startup: application
