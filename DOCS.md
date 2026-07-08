@@ -1,5 +1,7 @@
 ## Detailed Configuration
-Please refer to the [ring-mqtt project wiki](https://github.com/tsightler/ring-mqtt/wiki) for detailed documentation on this project.
+This fork of the original ring-mqtt project exposes light brightness settings for compatible devices to MQTT, so that brightness control can be queried and set via Home Assistant and other MQTT-capable systems.
+
+Please refer to the original [ring-mqtt project wiki](https://github.com/tsightler/ring-mqtt/wiki) for detailed documentation on this project.
 
 ## Global Configuration Options
 | Config Option | Description | Default |
