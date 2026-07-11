@@ -2,8 +2,6 @@
 
 ![aarch64-shield](https://img.shields.io/badge/aarch64-yes-green.svg)
 ![amd64-shield](https://img.shields.io/badge/amd64-yes-green.svg)
-![armhf-shield](https://img.shields.io/badge/armhf-yes-green.svg)
-![armv7-shield](https://img.shields.io/badge/armv7-yes-green.svg)
 
 # Ring-MQTT Light Brightness Control
 Updates the original [ring-mqtt](https://github.com/tsightler/ring-mqtt) project to allow control of light brightness settings from newer Ring cameras with lights.
