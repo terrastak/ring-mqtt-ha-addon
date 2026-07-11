@@ -1,12 +1,12 @@
-![ring-mqtt-logo](https://raw.githubusercontent.com/terrastak/ring-mqtt-ha-addon/master/logo.png)
+![ring-mqtt-logo](https://raw.githubusercontent.com/terrastak/ring-mqtt-ha-addon/lightfix/images/ring-mqtt-logo.png)
 
 ![aarch64-shield](https://img.shields.io/badge/aarch64-yes-green.svg)
 ![amd64-shield](https://img.shields.io/badge/amd64-yes-green.svg)
 ![armhf-shield](https://img.shields.io/badge/armhf-yes-green.svg)
 ![armv7-shield](https://img.shields.io/badge/armv7-yes-green.svg)
 
-# Terrastak Light Brightness Control
-Updates to the original [ring-mqtt](https://github.com/tsightler/ring-mqtt) project exposes and allows local control of light brightness settings from Ring cameras with lights.
+# Ring-MQTT Light Brightness Control
+Updates the original [ring-mqtt](https://github.com/tsightler/ring-mqtt) project to allow control of light brightness settings from newer Ring cameras with lights.
 
 # About
 This add-on provides users of Home Assistant OS or Home Assistant Supervised an easy method to install and run the [ring-mqtt](https://github.com/tsightler/ring-mqtt) project which allows various devices sold by Ring LLC to integrate easily with Home Assistant via the open MQTT protocol.  The project also supports video streaming by providing an RTSP gateway service that allows any media client supporting the RTSP protocol to connect to a Ring camera livestream or to play back recorded events (Ring Protect subscription required for event recording playback).  Please review the full list of [supported devices and features](https://github.com/tsightler/ring-mqtt/wiki#supported-devices-and-features) for more information on current capabilities.

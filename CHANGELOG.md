@@ -1,6 +1,6 @@
 **LIGHT INTENSITY FORK**
 - Version 5.9.3.x
-- Exposes light brightness values on Ring camera devices with light intensity settings in the Ring app to MQTT for automation.
+- Exposes light brightness values on Ring camera devices from the light intensity settings slider in the Ring app to MQTT.
 
 **Bugs Fixed**
  - Updated ring-client-api with patched push-receiver package to address push messages failing decryption with ERR_CRYPTO_ECDH_INVALID_PUBLIC_KEY message, potentially leading to missed motion/ding events for cameras/doorbells/intercoms.
